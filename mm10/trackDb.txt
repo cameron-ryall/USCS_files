@@ -6,10 +6,10 @@ longLabel ATAC-seq signal for FN11
 visibility full
 color 0,0,255
 
-track MN11
+track M11
 type bigWig
 bigDataUrl https://raw.githubusercontent.com/cameron-ryall/USCS_files/main/M11.bw
-shortLabel MN11 ATAC
-longLabel ATAC-seq signal for MN11
+shortLabel M11 ATAC
+longLabel ATAC-seq signal for M11
 visibility full
 color 255,0,0
