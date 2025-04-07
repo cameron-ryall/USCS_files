@@ -1,5 +1,5 @@
 hub ATACseqHub
 shortLabel ATAC Hub
 longLabel ATAC-seq track hub from GitHub
-genomesFile genomes.txt
+genomesFile https://raw.githubusercontent.com/cameron-ryall/USCS_files/main/genomes.txt
 email cdr42@cam.ac.uk
