@@ -1,2 +1,2 @@
 genome mm10
-trackDb mm10/trackDb.txt
+trackDb https://raw.githubusercontent.com/cameron-ryall/USCS_files/main/mm10/trackDb.txt
