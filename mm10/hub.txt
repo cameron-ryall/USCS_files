@@ -1,0 +1,5 @@
+hub ATACseqHub
+shortLabel ATAC Hub
+longLabel ATAC-seq track hub from GitHub
+genomesFile genomes.txt
+email cdr42@cam.ac.uk
