@@ -1,0 +1,22 @@
+hub ATACseqHub
+shortLabel ATAC Hub
+longLabel ATAC-seq track hub from GitHub
+email cdr42@cam.ac.uk
+
+genome mm10
+
+track FN11
+type bigWig
+bigDataUrl https://raw.githubusercontent.com/cameron-ryall/USCS_files/FN11.bw
+shortLabel FN11 ATAC
+longLabel ATAC-seq signal for FN11
+visibility full
+color 0,0,255
+
+track MN11
+type bigWig
+bigDataUrl https://raw.githubusercontent.com/cameron-ryall/USCS_files/MN11.bw
+shortLabel MN11 ATAC
+longLabel ATAC-seq signal for MN11
+visibility full
+color 255,0,0
